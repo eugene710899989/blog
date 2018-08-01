@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[php_pcntl_2018_07_28]]></title>
+    <url>%2F2018%2F07%2F28%2Fphp-pcntl-2018-07-28%2F</url>
+    <content type="text"><![CDATA[PCNTL尝试多进程]]></content>
+      <categories>
+        <category>php</category>
+        <category>扩展</category>
+      </categories>
+      <tags>
+        <tag>php</tag>
+        <tag>多进程</tag>
+        <tag>php扩展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[tags]]></title>
+    <url>%2Ftags%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[categories]]></title>
+    <url>%2Fcategories%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+</search>
